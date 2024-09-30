@@ -1,0 +1,22 @@
+.menu{
+    height: var(--height-menu);
+    padding-left: 51px;
+    background-color: var(--color-light-blue-menu);
+    padding-top: 21px;
+    border-top: 3px #359ABF solid;
+    border-bottom: 3px #359ABF solid;
+}
+.menu ul li{
+/* Розміщуємо пункти в 1 рядок */
+    display: inline-block;
+    padding-right:65px;
+}
+.menu ul li a
+{
+    color: black;
+}
+.menu ul li a:hover{
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}

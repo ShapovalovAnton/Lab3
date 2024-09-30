@@ -1,0 +1,16 @@
+.header 
+{
+    background-color: var(--color-blue-header);
+    height: var(--height-header);
+    
+}
+
+.header_h1
+{    
+    font-size: var(--font-size-h1);
+    font-family: var(--font-family-h);
+    
+    padding-top: 26px;
+    text-align: center;
+}
+

@@ -1,0 +1,5 @@
+.footer{
+    height: var(--height-footer);
+    background-color: var(--color-blue-header);
+}
+

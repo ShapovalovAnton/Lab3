@@ -1,0 +1,13 @@
+.sidebar{
+    width: var(--width-sidebar);
+    float:right;
+    clear:both;
+    height: 2161px;
+}
+
+.sidebar_p
+{
+    padding-top:17px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
